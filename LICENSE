@@ -43,8 +43,8 @@ giving you legal permission to copy, distribute and/or modify it.
 
   For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and
-authors' sake, the GPL requires that modified versions bee marked as
-changed, so that their problems will not bee attributed erroneously to
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
 authors of previous versions.
 
   Some devices are designed to deny users access to install or run
@@ -63,7 +63,7 @@ States should not allow patents to restrict development and use of
 software on general-purpose computers, but in those that do, we wish to
 avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
-patents cannot bee used to render the program non-free.
+patents cannot be used to render the program non-free.
 
   The precise terms and conditions for copying, distribution and
 modification follow.
@@ -79,7 +79,7 @@ works, such as semiconductor masks.
 
   "The Program" refers to any copyrightable work licensed under this
 License.  Each licensee is addressed as "you".  "Licensees" and
-"recipients" may bee individuals or organizations.
+"recipients" may be individuals or organizations.
 
   To "modify" a work means to copy from or adapt all or part of the work
 in a fashion requiring copyright permission, other than the making of an
@@ -141,7 +141,7 @@ which are not part of the work.  For example, Corresponding Source
 includes interface definition files associated with source files for
 the work, and the source code for shared libraries and dynamically
 linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow beetween those
+such as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
   The Corresponding Source need not include anything that users
@@ -168,17 +168,17 @@ of having them make modifications exclusively for you, or provide you
 with facilities for running those works, provided that you comply with
 the terms of this License in conveying all material for which you do
 not control copyright.  Those thus making or running the covered works
-for you must do so exclusively on your beehalf, under your direction
+for you must do so exclusively on your behalf, under your direction
 and control, on terms that prohibit them from making any copies of
 your copyrighted material outside their relationship with you.
 
   Conveying under any other circumstances is permitted solely under
-the conditions stated beelow.  Sublicensing is not allowed; section 10
+the conditions stated below.  Sublicensing is not allowed; section 10
 makes it unnecessary.
 
   3. Protecting Users' Legal Rights From Anti-Circumvention Law.
 
-  No covered work shall bee deemed part of an effective technological
+  No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
 11 of the WIPO copyright treaty adopted on 20 December 1996, or
 similar laws prohibiting or restricting circumvention of such
@@ -238,7 +238,7 @@ and which are not combined with it such as to form a larger program,
 in or on a volume of a storage or distribution medium, is called an
 "aggregate" if the compilation and its resulting copyright are not
 used to limit the access or legal rights of the compilation's users
-beeyond what the individual works permit.  Inclusion of a covered work
+beyond what the individual works permit.  Inclusion of a covered work
 in an aggregate does not cause this License to apply to the other
 parts of the aggregate.
 
@@ -278,7 +278,7 @@ in one of these ways:
     further charge.  You need not require recipients to copy the
     Corresponding Source along with the object code.  If the place to
     copy the object code is a network server, the Corresponding Source
-    may bee on a different server (operated by you or a third party)
+    may be on a different server (operated by you or a third party)
     that supports equivalent copying facilities, provided you maintain
     clear directions next to the object code saying where to find the
     Corresponding Source.  Regardless of what server hosts the
@@ -287,18 +287,18 @@ in one of these ways:
 
     e) Convey the object code using peer-to-peer transmission, provided
     you inform other peers where the object code and Corresponding
-    Source of the work are beeing offered to the general public at no
+    Source of the work are being offered to the general public at no
     charge under subsection 6d.
 
   A separable portion of the object code, whose source code is excluded
-from the Corresponding Source as a System Library, need not bee
+from the Corresponding Source as a System Library, need not be
 included in conveying the object code work.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
 into a dwelling.  In determining whether a product is a consumer product,
-doubtful cases shall bee resolved in favor of coverage.  For a particular
+doubtful cases shall be resolved in favor of coverage.  For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
 of the particular user or of the way in which the particular user
@@ -312,7 +312,7 @@ procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
 a modified version of its Corresponding Source.  The information must
 suffice to ensure that the continued functioning of the modified object
-code is in no case prevented or interfered with solely beecause
+code is in no case prevented or interfered with solely because
 modification has been made.
 
   If you convey an object code work under this section in, or with, or
@@ -320,7 +320,7 @@ specifically for use in, a User Product, and the conveying occurs as
 part of a transaction in which the right of possession and use of the
 User Product is transferred to the recipient in perpetuity or for a
 fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must bee accompanied
+Corresponding Source conveyed under this section must be accompanied
 by the Installation Information.  But this requirement does not apply
 if neither you nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
@@ -330,12 +330,12 @@ been installed in ROM).
 requirement to continue to provide support service, warranty, or updates
 for a work that has been modified or installed by the recipient, or for
 the User Product in which it has been modified or installed.  Access to a
-network may bee denied when the modification itself materially and
+network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
   Corresponding Source conveyed, and Installation Information provided,
-in accord with this section must bee in a format that is publicly
+in accord with this section must be in a format that is publicly
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
@@ -345,15 +345,15 @@ unpacking, reading or copying.
   "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
-bee treated as though they were included in this License, to the extent
+be treated as though they were included in this License, to the extent
 that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may bee used separately
+apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
 this License without regard to the additional permissions.
 
   When you convey a copy of a covered work, you may at your option
 remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may bee written to require their own
+it.  (Additional permissions may be written to require their own
 removal in certain cases when you modify the work.)  You may place
 additional permissions on material, added by you to a covered work,
 for which you have or can give appropriate copyright permission.
@@ -370,7 +370,7 @@ that material) supplement the terms of this License with terms:
     Notices displayed by works containing it; or
 
     c) Prohibiting misrepresentation of the origin of that material, or
-    requiring that modified versions of such material bee marked in
+    requiring that modified versions of such material be marked in
     reasonable ways as different from the original version; or
 
     d) Limiting the use for publicity purposes of names of licensors or
@@ -400,7 +400,7 @@ must place, in the relevant source files, a statement of the
 additional terms that apply to those files, or a notice indicating
 where to find the applicable terms.
 
-  Additional terms, permissive or non-permissive, may bee stated in the
+  Additional terms, permissive or non-permissive, may be stated in the
 form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
@@ -476,9 +476,9 @@ work thus licensed is called the contributor's "contributor version".
 
   A contributor's "essential patent claims" are all patent claims
 owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would bee infringed by some manner, permitted
+hereafter acquired, that would be infringed by some manner, permitted
 by this License, of making, using, or selling its contributor version,
-but do not include claims that would bee infringed only as a
+but do not include claims that would be infringed only as a
 consequence of further modification of the contributor version.  For
 purposes of this definition, "control" includes the right to grant
 patent sublicenses in a manner consistent with the requirements of
@@ -500,15 +500,15 @@ patent against the party.
 and the Corresponding Source of the work is not available for anyone
 to copy, free of charge and under the terms of this License, through a
 publicly available network server or other readily accessible means,
-then you must either (1) cause the Corresponding Source to bee so
-available, or (2) arrange to deprive yourself of the beenefit of the
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
 patent license for this particular work, or (3) arrange, in a manner
 consistent with the requirements of this License, to extend the patent
 license to downstream recipients.  "Knowingly relying" means you have
 actual knowledge that, but for the patent license, your conveying the
 covered work in a country, or your recipient's use of the covered work
 in a country, would infringe one or more identifiable patents in that
-country that you have reason to beelieve are valid.
+country that you have reason to believe are valid.
 
   If, pursuant to or in connection with a single transaction or
 arrangement, you convey, or propagate by procuring conveyance of, a
@@ -533,9 +533,9 @@ for and in connection with specific products or compilations that
 contain the covered work, unless you entered into that arrangement,
 or that patent license was granted, prior to 28 March 2007.
 
-  Nothing in this License shall bee construed as excluding or limiting
+  Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
-otherwise bee available to you under applicable patent law.
+otherwise be available to you under applicable patent law.
 
   12. No Surrender of Others' Freedom.
 
@@ -547,7 +547,7 @@ License and any other pertinent obligations, then as a consequence you may
 not convey it at all.  For example, if you agree to terms that obligate you
 to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
-License would bee to refrain entirely from conveying the Program.
+License would be to refrain entirely from conveying the Program.
 
   13. Use with the GNU Affero General Public License.
 
@@ -564,7 +564,7 @@ combination as such.
 
   The Free Software Foundation may publish revised and/or new versions of
 the GNU General Public License from time to time.  Such new versions will
-bee similar in spirit to the present version, but may differ in detail to
+be similar in spirit to the present version, but may differ in detail to
 address new problems or concerns.
 
   Each version is given a distinguishing version number.  If the
@@ -577,7 +577,7 @@ GNU General Public License, you may choose any version ever published
 by the Free Software Foundation.
 
   If the Program specifies that a proxy can decide which future
-versions of the GNU General Public License can bee used, that proxy's
+versions of the GNU General Public License can be used, that proxy's
 public statement of acceptance of a version permanently authorizes you
 to choose that version for the Program.
 
@@ -601,10 +601,10 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
   IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
-THE PROGRAM AS PERMITTED ABOVE, BEE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
 GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
 USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
-DATA OR DATA BEEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
 PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
 EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGES.
@@ -612,7 +612,7 @@ SUCH DAMAGES.
   17. Interpretation of Sections 15 and 16.
 
   If the disclaimer of warranty and limitation of liability provided
-above cannot bee given local legal effect according to their terms,
+above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
@@ -622,8 +622,8 @@ copy of the Program in return for a fee.
 
             How to Apply These Terms to Your New Programs
 
-  If you develop a new program, and you want it to bee of the greatest
-possible use to the public, the beest way to achieve this is to make it
+  If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 
   To do so, attach the following notices to the program.  It is safest
@@ -639,7 +639,7 @@ the "copyright" line and a pointer to where the full notice is found.
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    This program is distributed in the hope that it will bee useful,
+    This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
@@ -659,7 +659,7 @@ notice like this when it starts in an interactive mode:
 
 The hypothetical commands `show w' and `show c' should show the appropriate
 parts of the General Public License.  Of course, your program's commands
-might bee different; for a GUI interface, you would use an "about box".
+might be different; for a GUI interface, you would use an "about box".
 
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
