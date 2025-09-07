@@ -21,3 +21,9 @@ run the server
 ```bash
 node server/server.js
 ```
+
+## legal
+
+netbee is licensed under the [BeePL License](LICENSE), which is exactly the same as the GPL license except that i replaced every occurence of "be" with "bee"
+
+you may adapt netbee, provided you release your modifications under the BeePL [BeePL License](LICENSE).
