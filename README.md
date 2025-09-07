@@ -24,6 +24,4 @@ node server/server.js
 
 ## legal
 
-netbee is licensed under the [BeePL License](LICENSE), which is exactly the same as the GPL license except that i replaced every occurence of "be" with "bee"
-
-you may adapt netbee, provided you release your modifications under the BeePL [BeePL License](LICENSE).
+netbee is licensed under the [GNU General Public License](LICENSE). you may make any modifications, but they must be released under the [GNU General Public License](LICENSE).
