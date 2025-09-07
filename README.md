@@ -10,6 +10,12 @@ git clone https://github.com/luminousherbs/netbee
 ```
 
 update [config/network.js](config/network.js) to use your network settings
+```js
+export const host = {
+    ip: "...", // enter your ip
+    port: "...", // pick a port
+}
+```
 
 run the server
 ```bash
